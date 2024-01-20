@@ -5,7 +5,3 @@
 #While loop
 
 #Do-while loop
-
-#Break statement
-
-#Continue statement
